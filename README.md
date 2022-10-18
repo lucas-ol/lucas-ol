@@ -1,4 +1,4 @@
-### olá! eu sou Lucas 
+### Olá! eu sou Lucas 
 
 [![Blog](https://img.shields.io/website?style=for-the-badge&url=https://lucasconsultoria.com&label=lucasconsultoria.com)](https://lucasconsultoria.com) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/oliveira_melo1996/) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-de-oliveira-melo-25a181106/) 
 
