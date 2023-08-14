@@ -4,7 +4,7 @@
 
 ![Lucas-ol GitHub stats](https://github-readme-stats.vercel.app/api?username=lucas-ol&show_icons=true&theme=dracula&count_private=false)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-ol&layout=compact)](https://github.com/lucas-ol?)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-ol&layout=compact&)](https://github.com/lucas-ol)
 
 
 ## Algumas tecnologias que eu uso no meu dia
