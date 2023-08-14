@@ -2,7 +2,7 @@
 
 [![Blog](https://img.shields.io/website?style=for-the-badge&url=https://lucasconsultoria.com&label=lucasconsultoria.com)](https://lucasconsultoria.com) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/oliveira_melo1996/) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-de-oliveira-melo-25a181106/) 
 
-| <a href="https://github.com/lucas-ol"><img align="center" src="https://github-readme-stats.vercel.app/api?username=lucas-ol&show_icons=true&theme=dracula&count_private=false" /></a> | <a href="https://github.com/lucas-ol/"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-ol&theme=dracula&layout=compact&)](https://github.com/lucas-ol" /></a> |
+| <a href="https://github.com/lucas-ol"><img align="center" src="https://github-readme-stats.vercel.app/api?username=lucas-ol&show_icons=true&count_private=false" /></a> | <a href="https://github.com/lucas-ol/"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-ol&layout=compact&)](https://github.com/lucas-ol" /></a> |
 | ------------- | ------------- |
 
 ## Algumas tecnologias que eu uso no meu dia
