@@ -2,11 +2,12 @@
 
 [![Blog](https://img.shields.io/website?style=for-the-badge&url=https://lucasconsultoria.com&label=lucasconsultoria.com)](https://lucasconsultoria.com) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/oliveira_melo1996/) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-de-oliveira-melo-25a181106/) 
 
-
-![Lucas-ol GitHub stats](https://github-readme-stats.vercel.app/api?username=lucas-ol&show_icons=true&theme=dracula&count_private=false)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-ol&theme=dracula&layout=compact&hide_border=true)](https://github.com/lucas-ol)
-
+# 📊 GitHub Stats:
+![Lucas-ol GitHub stats](https://github-readme-stats.vercel.app/api?username=lucas-ol&show_icons=true&theme=dark&count_private=false)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-ol&theme=dark&layout=compact&hide_border=true)](https://github.com/lucas-ol)
+ 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=lucas-ol&theme=apprentice&no-frame=false&no-bg=false&margin-w=4)
 
 ## Algumas tecnologias que eu uso no meu dia
 
